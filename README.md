@@ -34,7 +34,7 @@ Fundamentos da linguagem R, incluindo os conceitos básicos e operadores fundame
 - **25-Explorando ggplot2**
 - **26-Mapas**
 
-### 2. Trabalhando e Importando Arquivos com R
+### [2. Trabalhando e Importando Arquivos com R](./2-trabalhando-importando-arquivos-com-r)
 Tutoriais sobre como importar e manipular diferentes tipos de arquivos usando R.
 - **1-Trabalhando com Arquivos txt**
 - **2-Trabalhando com Arquivos csv**
@@ -45,7 +45,7 @@ Tutoriais sobre como importar e manipular diferentes tipos de arquivos usando R.
 - **7-dplyr**
 - **8-tidyr**
 
-### 3. Manipulando Dados com R
+### [3. Manipulando Dados com R](./3-manipulando-dados-com-r/)
 Técnicas de manipulação de dados em R, cobrindo desde reshape até subsetting.
 - **1-Importando Softwares Estatísticos**
 - **2-Web Scraping**
@@ -57,14 +57,14 @@ Técnicas de manipulação de dados em R, cobrindo desde reshape até subsetting
 - **8-RProfiler**
 - **9-Series Temporais**
 
-### 4. Análise Estatística com R
+### [4. Análise Estatística com R](./4-analise-estatistica-com-r)
 Recursos para realizar análises estatísticas básicas e avançadas.
 - **1-estatística-básica**
 - **2-análise-descritiva**
 - **3-probabilidade-variáveis-contínuas**
 - **4-probabilidade-variáveis-discretas**
 
-### 5. Projetos
+### [5. Projetos](./5-projetos)
 Projetos práticos para aplicar os conhecimentos adquiridos.
 - **AnaliseSentimentosTwitter**
 - **FinancialAnalytics**
