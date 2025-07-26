@@ -89,3 +89,14 @@ Projetos práticos para aplicar os conhecimentos adquiridos.
 1. **Clone o Repositório:** 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+---
+
+### 🔗 Fale Comigo
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fabiomarcolia/)
+
+
+### Autor
+
+- [Fabio Marçolia](https://github.com/fabiomarcolia)
