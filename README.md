@@ -92,7 +92,7 @@ Projetos práticos para aplicar os conhecimentos adquiridos.
 
 ---
 
-### 🔗 Fale Comigo
+### Se Conecte e Fale Comigo no Linkedin🤝
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fabiomarcolia/)
 
